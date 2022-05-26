@@ -16,8 +16,8 @@ Due to the size of models, we store the model files separately from GitHub.
 2. Unzip the compressed file in this directory (e.g. models)
 3. This will extract multiple folders:
 
-* VB-MLP (for all 6 datasets)
-* VB-CNN (for all 6 datasets)
+* `VB-MLP_{dataset-name}` (for all 6 datasets)
+* `VB-CNN_{dataset-name}` (for all 6 datasets)
 
 4. In total, there will be 12 different folders extracted from the compressed file.
 5. Now, you can use these fine-tuned models to test/evaluate on a specific vulnerability detection dataset or even any C/C++ source code.
