@@ -7,7 +7,7 @@
 This paper presents VulBERTa, a deep learning approach to detect security vulnerabilities in source code. Our approach pre-trains a RoBERTa model with a custom tokenisation pipeline on real-world code from open-source C/C++ projects. The model learns a deep knowledge representation of the code syntax and semantics, which we leverage to train vulnerability detection classifiers. We evaluate our approach on binary and multi-class vulnerability detection tasks across several datasets (Vuldeepecker, Draper, REVEAL and muVuldeepecker) and benchmarks (CodeXGLUE and D2A). The evaluation results show that VulBERTa achieves state-of-the-art performance and outperforms existing approaches across different datasets, despite its conceptual simplicity, and limited cost in terms of size of training data and number of model parameters.
 
 ## Data
-We provide all the data required by VulBERTa.  
+We provide all data required by VulBERTa.  
 This includes:
  - Tokenizer training data
  - Pre-training data
@@ -16,7 +16,7 @@ This includes:
 Please refer to the [data](https://github.com/ICL-ml4csec/VulBERTa/tree/main/data "data") directory for further instructions and details.
 
 ## Models
-We provide all the models pre-trained and fine-tuned by VulBERTa.  
+We provide all models pre-trained and fine-tuned by VulBERTa.  
 This includes:
  - Trained tokenisers
  - Pre-trained VulBERTa model (core representation knowledge)
