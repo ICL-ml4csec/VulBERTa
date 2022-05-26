@@ -1,6 +1,8 @@
 # VulBERTa
 Simplified Source Code Pre-Training for Vulnerability Detection
 
+Further information and description will be updated.
+
 
 ## Citation
 
