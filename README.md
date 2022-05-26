@@ -1,6 +1,5 @@
 
-# VulBERTa
-Simplified Source Code Pre-Training for Vulnerability Detection
+# VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection
 
 ![VulBERTa architecture](VB.png)
 
