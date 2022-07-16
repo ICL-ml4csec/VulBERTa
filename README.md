@@ -32,6 +32,7 @@ In general, we used this version of packages when running the experiments:
  - Pytorch 1.7.0
  - Transformers 4.4.1
  - Tokenizers 0.10.1
+ - Libclang (any version > 12.0 should work. https://pypi.org/project/libclang/)
 
 For an exhaustive list of all the packages, please refer to [requirements.txt](https://github.com/ICL-ml4csec/VulBERTa/blob/main/requirements.txt "requirements.txt") file.
 
