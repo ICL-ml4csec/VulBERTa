@@ -64,7 +64,8 @@ Accepted as conference paper (oral presentation) at the International Joint Conf
   year={2022},
   volume={},
   number={},
-  pages={1-8}
+  pages={1-8},
+  doi={10.1109/IJCNN55064.2022.9892280}
   
 }
 ```
