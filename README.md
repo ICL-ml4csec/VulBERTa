@@ -51,9 +51,10 @@ Therefore, we separate each task into different notebook:
 Coming soon!
 
 ## Citation
-Link to Arxiv: https://arxiv.org/abs/2205.12424  
 
-Accepted as conference paper (oral presentation) at the International Joint Conference on Neural Networks (IJCNN) 2022  
+Accepted as conference paper (oral presentation) at the International Joint Conference on Neural Networks (IJCNN) 2022.  
+Link to paper: https://ieeexplore.ieee.org/document/9892280  
+
 
 ```bibtex
 @INPROCEEDINGS{hanif2022vulberta,
