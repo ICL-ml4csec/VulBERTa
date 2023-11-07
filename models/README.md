@@ -5,7 +5,6 @@ Due to the size of models, we store the model files separately from GitHub.
 ## How to download the pre-trained model (VulBERTa)
 
 1. Download the compressed file from (https://1drv.ms/u/s!AueKnGqzBuIVkq4CynZHsF8Mv-en1g?e=3gg60p)  
-`wget --no-check-certificate -O pretraining_model.zip "https://onedrive.live.com/download?cid=15E206B36A9C8AE7&resid=15E206B36A9C8AE7%21300802&authkey=AFnlaFjZFQCCp5w"`  
 	
 3. Unzip the compressed file in this directory (e.g. models)  
 `unzip pretraining_model.zip`
@@ -17,7 +16,6 @@ Due to the size of models, we store the model files separately from GitHub.
 ## How to download the fine-tuned models (VulBERTa-MLP, VulBERTa-CNN)
 
 1. Download the compressed file from (https://1drv.ms/u/s!AueKnGqzBuIVkq4DAleeVbhSzuB87w?e=jdI83b)  
-`wget --no-check-certificate -O finetuning_models.zip "https://onedrive.live.com/download?cid=15E206B36A9C8AE7&resid=15E206B36A9C8AE7%21300803&authkey=AIj7B7HPzR0lljI"`  
 
 2. Unzip the compressed file in this directory (e.g. models)  
 `unzip finetuning_models.zip`
